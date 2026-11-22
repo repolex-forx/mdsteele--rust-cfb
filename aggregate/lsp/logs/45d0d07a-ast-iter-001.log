@@ -1,0 +1,7 @@
+[2026-11-22T09:27:16Z] === AST ITERATION 1 START | repo=mdsteele/rust-cfb sha=45d0d07a ===
+[2026-11-22T09:27:16Z] [iter=1] PHASE START: ast repo=mdsteele/rust-cfb sha=45d0d07a
+[2026-11-22T09:27:16Z] [iter=1] Building AST aggregate chunks
+[2026-11-22T09:27:40Z] [iter=1] AST chunks built count=1 triples=325477
+[2026-11-22T09:27:40Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/45d0d07adc8e95f9c239ac7dcc42761b1347ed3e/.complete
+[2026-11-22T09:27:40Z] [iter=1] PHASE END: ast elapsed_s=24 elapsed_min=0.4
+[2026-11-22T09:27:40Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

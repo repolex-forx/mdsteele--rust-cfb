@@ -1,0 +1,11 @@
+{
+  "org": "mdsteele",
+  "repo": "rust-cfb",
+  "versions": [
+    {
+      "commit": "45d0d07adc8e95f9c239ac7dcc42761b1347ed3e",
+      "tag": "v0.14.0",
+      "parsed_at": "2026-11-22T09:36:02.300558+00:00"
+    }
+  ]
+}

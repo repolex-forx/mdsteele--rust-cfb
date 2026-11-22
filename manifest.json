@@ -60,6 +60,90 @@
       ],
       "ast": [
         "aggregate/ast/45d0d07adc8e95f9c239ac7dcc42761b1347ed3e/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/45d0d07adc8e95f9c239ac7dcc42761b1347ed3e.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "fnv",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "servo",
+          "githubRepo": "rust-fnv",
+          "githubUrl": "https://github.com/servo/rust-fnv",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "uuid",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "uuid-rs",
+          "githubRepo": "uuid",
+          "githubUrl": "https://github.com/uuid-rs/uuid",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "web-time",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "daxpedda",
+          "githubRepo": "web-time",
+          "githubUrl": "https://github.com/daxpedda/web-time",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clap",
+          "ecosystem": "CARGO",
+          "version": "4.4",
+          "githubOrg": "clap-rs",
+          "githubRepo": "clap",
+          "githubUrl": "https://github.com/clap-rs/clap",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rand",
+          "ecosystem": "CARGO",
+          "version": "0.8",
+          "githubOrg": "rust-random",
+          "githubRepo": "rand",
+          "githubUrl": "https://github.com/rust-random/rand",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rand_pcg",
+          "ecosystem": "CARGO",
+          "version": "0.3",
+          "githubOrg": "rust-random",
+          "githubRepo": "rngs",
+          "githubUrl": "https://github.com/rust-random/rngs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "time",
+          "ecosystem": "CARGO",
+          "version": "0.3",
+          "githubOrg": "time-rs",
+          "githubRepo": "time",
+          "githubUrl": "https://github.com/time-rs/time",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "criterion",
+          "ecosystem": "CARGO",
+          "version": "0.8",
+          "githubOrg": "criterion-rs",
+          "githubRepo": "criterion.rs",
+          "githubUrl": "https://github.com/criterion-rs/criterion.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "tempfile",
+          "ecosystem": "CARGO",
+          "version": "3",
+          "githubOrg": "Stebalien",
+          "githubRepo": "tempfile",
+          "githubUrl": "https://github.com/Stebalien/tempfile",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
